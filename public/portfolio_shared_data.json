@@ -5,8 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/KajeTheCat",
+          "url": "https://github.com",
           "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jacobamsbury/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.png"
